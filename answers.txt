@@ -1,1 +1,5 @@
-
+(a)
+Pros: - Allows for greater codebase coordinization in large teams, so every team member can be aware of the what needs to be done most urgently.
+      - Allows faster responses to customer demands and better derliverable time estimates.
+Cons: - Takes time aways from developers that could be spent coding on meetings that may or may not be useful.
+      - Can slow down the devolpment process with constant iteration.
