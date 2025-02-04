@@ -3,3 +3,6 @@ Pros: - Allows for greater codebase coordinization in large teams, so every team
       - Allows faster responses to customer demands and better derliverable time estimates.
 Cons: - Takes time aways from developers that could be spent coding on meetings that may or may not be useful.
       - Can slow down the devolpment process with constant iteration.
+
+(b)
+      A project owner set the backlog for the dev team and maneges what direction the project is going. A scrum master organizes sprints, leads daily standups, and coaches the dev team on following agile development.
