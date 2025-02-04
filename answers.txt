@@ -6,3 +6,14 @@ Cons: - Takes time aways from developers that could be spent coding on meetings 
 
 (b)
       A project owner set the backlog for the dev team and maneges what direction the project is going. A scrum master organizes sprints, leads daily standups, and coaches the dev team on following agile development.
+
+(c)
+Sprint planning meeting:
+ - Decide who wants to do what for the sprint
+ - Move stories in the stprint scope fromt the backlog to the sprint
+Daily Standup:
+ - Discuss work completed
+ - Plan work for the day and incorperate blockers
+Sprint Retrospective meeting:
+ - Discuss completed work
+ - Move incoplete work to the backlog
