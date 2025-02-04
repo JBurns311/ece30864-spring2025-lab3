@@ -17,3 +17,9 @@ Daily Standup:
 Sprint Retrospective meeting:
  - Discuss completed work
  - Move incoplete work to the backlog
+
+(d)
+Epic: Large task or feature that can be broken down into many smaller tasks
+Story: A single software feature or requirement that is not large in scope
+Bug: A small issure or unexpect behaviour in the software that blocks the completeion of another issue
+Task: A low-level implementation detail of a story or issue
